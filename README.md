@@ -15,7 +15,8 @@ Hello, my name is <strong>Gustavo Moraes</strong>! Graduated in <strong>Computer
   </a>
 </p>
 
-## Contact Me
+### Contact Me
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gussmoraes)](https://github.com/gussmoraes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-smoraes/)](https://www.linkedin.com/in/gustavo-smoraes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusta.smoraes@gmail.com)](mailto:gusta.smoraes@gmail.com/)
