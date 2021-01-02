@@ -5,7 +5,7 @@ Hello, my name is <strong>Gustavo Moraes</strong>! Graduated in <strong>Computer
 
 <p align="left">
   <a href="https://github.com/gussmoraes/github-readme-stats">
-    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=gussmoraes&layout=compact&show_icons=true&theme=dracula" />
+    <img align="left" width="45.5%" src="https://github-readme-stats.vercel.app/api?username=gussmoraes&layout=compact&show_icons=true&theme=dracula" />
   </a>
 </p>
 
